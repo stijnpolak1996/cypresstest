@@ -1,2 +1,2 @@
 # cypresstest
-Repository for debugging cypress issues
+Repository for debugging cypress issues posted to github.
